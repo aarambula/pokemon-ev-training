@@ -1,0 +1,803 @@
+
+1	Bulbasaur				1		
+2	Ivysaur				1	1	
+3	Venusaur				2	1	
+4	Charmander						1
+5	Charmeleon				1		1
+6	Charizard				3		
+7	Squirtle			1			
+8	Wartortle			1		1	
+9	Blastoise					3	
+10	Caterpie	1					
+11	Metapod			2			
+12	Butterfree				2	1	
+13	Weedle						1
+14	Kakuna			2			
+15	Beedrill		2			1	
+16	Pidgey						1
+17	Pidgeotto						2
+18	Pidgeot						3
+19	Rattata						1
+20	Raticate						2
+21	Spearow						1
+22	Fearow						2
+23	Ekans		1				
+24	Arbok		2				
+25	Pikachu						2
+26	Raichu						3
+27	Sandshrew			1			
+28	Sandslash			2			
+29	Nidoran♀	1					
+30	Nidorina	2					
+31	Nidoqueen	3					
+32	Nidoran♂		1				
+33	Nidorino		2				
+34	Nidoking		3				
+35	Clefairy	2					
+36	Clefable	3					
+37	Vulpix						1
+38	Ninetales						2
+39	Jigglypuff	2					
+40	Wigglytuff	3					
+41	Zubat						1
+42	Golbat						2
+43	Oddish				1		
+44	Gloom				2		
+45	Vileplume				3		
+46	Paras		1				
+47	Parasect		2	1			
+48	Venonat					1	
+49	Venomoth				1		1
+50	Diglett						1
+51	Dugtrio		2				
+52	Meowth						1
+53	Persian						2
+54	Psyduck				1		
+55	Golduck				2		
+56	Mankey		1				
+57	Primeape		2				
+58	Growlithe		1				
+59	Arcanine		2				
+60	Poliwag						1
+61	Poliwhirl						2
+62	Poliwrath			3			
+63	Abra				1		
+64	Kadabra				2		
+65	Alakazam				3		
+66	Machop		1				
+67	Machoke		2				
+68	Machamp		3				
+69	Bellsprout		1				
+70	Weepinbell		2				
+71	Victreebel		3				
+72	Tentacool					1	
+73	Tentacruel					2	
+74	Geodude			1			
+75	Graveler			2			
+76	Golem			3			
+77	Ponyta						1
+78	Rapidash						2
+79	Slowpoke	1					
+80	Slowbro			2			
+81	Magnemite				1		
+82	Magneton				2		
+83	Farfetch'd		1				
+84	Doduo		1				
+85	Dodrio		2				
+86	Seel					1	
+87	Dewgong					2	
+88	Grimer	1					
+89	Muk	1	1				
+90	Shellder			1			
+91	Cloyster			2			
+92	Gastly				1		
+93	Haunter				2		
+94	Gengar				3		
+95	Onix			1			
+96	Drowzee					1	
+97	Hypno					2	
+98	Krabby		1				
+99	Kingler		2				
+100	Voltorb						1
+101	Electrode						2
+102	Exeggcute			1			
+103	Exeggutor				2		
+104	Cubone			1			
+105	Marowak			2			
+106	Hitmonlee		2				
+107	Hitmonchan					2	
+108	Lickitung	2					
+109	Koffing			1			
+110	Weezing			2			
+111	Rhyhorn			1			
+112	Rhydon		2				
+113	Chansey	2					
+114	Tangela			1			
+115	Kangaskhan	2					
+116	Horsea				1		
+117	Seadra			1	1		
+118	Goldeen		1				
+119	Seaking		2				
+120	Staryu						1
+121	Starmie						2
+122	Mr. Mime					2	
+123	Scyther		1				
+124	Jynx				2		
+125	Electabuzz						2
+126	Magmar				2		
+127	Pinsir		2				
+128	Tauros		1				1
+129	Magikarp						1
+130	Gyarados		2				
+131	Lapras	2					
+132	Ditto	1					
+133	Eevee					1	
+134	Vaporeon	2					
+135	Jolteon						2
+136	Flareon		2				
+137	Porygon				1		
+138	Omanyte			1			
+139	Omastar			2			
+140	Kabuto			1			
+141	Kabutops		2				
+142	Aerodactyl						2
+143	Snorlax	2					
+144	Articuno					3	
+145	Zapdos				3		
+146	Moltres				3		
+147	Dratini		1				
+148	Dragonair		2				
+149	Dragonite		3				
+150	Mewtwo				3		
+151	Mew	3					
+152	Chikorita					1	
+153	Bayleef			1		1	
+154	Meganium			1		2	
+155	Cyndaquil						1
+156	Quilava				1		1
+157	Typhlosion				3		
+158	Totodile		1				
+159	Croconaw		1	1			
+160	Feraligatr		2	1			
+161	Sentret		1				
+162	Furret						2
+163	Hoothoot	1					
+164	Noctowl	2					
+165	Ledyba					1	
+166	Ledian					2	
+167	Spinarak		1				
+168	Ariados		2				
+169	Crobat						3
+170	Chinchou	1					
+171	Lanturn	2					
+172	Pichu						1
+173	Cleffa					1	
+174	Igglybuff	1					
+175	Togepi					1	
+176	Togetic					2	
+177	Natu				1		
+178	Xatu				1		1
+179	Mareep				1		
+180	Flaaffy				2		
+181	Ampharos				3		
+182	Bellossom					3	
+183	Marill	2					
+184	Azumarill	3					
+185	Sudowoodo			2			
+186	Politoed					3	
+187	Hoppip					1	
+188	Skiploom						2
+189	Jumpluff						3
+190	Aipom						1
+191	Sunkern				1		
+192	Sunflora				2		
+193	Yanma						1
+194	Wooper	1					
+195	Quagsire	2					
+196	Espeon				2		
+197	Umbreon					2	
+198	Murkrow						1
+199	Slowking					3	
+200	Misdreavus					1	
+201	Unown		1		1		
+202	Wobbuffet	2					
+203	Girafarig				2		
+204	Pineco			1			
+205	Forretress			2			
+206	Dunsparce	1					
+207	Gligar			1			
+208	Steelix			2			
+209	Snubbull		1				
+210	Granbull		2				
+211	Qwilfish		1				
+212	Scizor		2				
+213	Shuckle			1		1	
+214	Heracross		2				
+215	Sneasel						1
+216	Teddiursa		1				
+217	Ursaring		2				
+218	Slugma				1		
+219	Magcargo			2			
+220	Swinub		1				
+221	Piloswine	1	1				
+222	Corsola			1		1	
+223	Remoraid				1		
+224	Octillery		1		1		
+225	Delibird						1
+226	Mantine					2	
+227	Skarmory			2			
+228	Houndour				1		
+229	Houndoom				2		
+230	Kingdra		1		1	1	
+231	Phanpy	1					
+232	Donphan		1	1			
+233	Porygon2				2		
+234	Stantler		1				
+235	Smeargle						1
+236	Tyrogue		1				
+237	Hitmontop					2	
+238	Smoochum				1		
+239	Elekid						1
+240	Magby						1
+241	Miltank			2			
+242	Blissey	3					
+243	Raikou				1		2
+244	Entei	1	2				
+245	Suicune			1		2	
+246	Larvitar		1				
+247	Pupitar		2				
+248	Tyranitar		3				
+249	Lugia					3	
+250	Ho-oh					3	
+251	Celebi	3					
+252	Treecko						1
+253	Grovyle						2
+254	Sceptile						3
+255	Torchic				1		
+256	Combusken		1		1		
+257	Blaziken		3				
+258	Mudkip		1				
+259	Marshtomp		2				
+260	Swampert		3				
+261	Poochyena		1				
+262	Mightyena		2				
+263	Zigzagoon						1
+264	Linoone						2
+265	Wurmple	1					
+266	Silcoon			2			
+267	Beautifly				3		
+268	Cascoon			2			
+269	Dustox					3	
+270	Lotad					1	
+271	Lombre					2	
+272	Ludicolo					3	
+273	Seedot			1			
+274	Nuzleaf		2				
+275	Shiftry		3				
+276	Taillow						1
+277	Swellow						2
+278	Wingull						1
+279	Pelipper			2			
+280	Ralts				1		
+281	Kirlia				2		
+282	Gardevoir				3		
+283	Surskit						1
+284	Masquerain				1	1	
+285	Shroomish	1					
+286	Breloom		2				
+287	Slakoth	1					
+288	Vigoroth						2
+289	Slaking	3					
+290	Nincada			1			
+291	Ninjask						2
+292	Shedinja	2					
+293	Whismur	1					
+294	Loudred	2					
+295	Exploud	3					
+296	Makuhita	1					
+297	Hariyama	2					
+298	Azurill	1					
+299	Nosepass			1			
+300	Skitty						1
+301	Delcatty	1					1
+302	Sableye		1	1			
+303	Mawile		1	1			
+304	Aron			1			
+305	Lairon			2			
+306	Aggron			3			
+307	Meditite						1
+308	Medicham						2
+309	Electrike						1
+310	Manectric						2
+311	Plusle						1
+312	Minun						1
+313	Volbeat						1
+314	Illumise						1
+315	Roselia				2		
+316	Gulpin	1					
+317	Swalot	2					
+318	Carvanha		1				
+319	Sharpedo		2				
+320	Wailmer	1					
+321	Wailord	2					
+322	Numel				1		
+323	Camerupt		1		1		
+324	Torkoal			2			
+325	Spoink					1	
+326	Grumpig					2	
+327	Spinda				1		
+328	Trapinch		1				
+329	Vibrava		1				1
+330	Flygon		1				2
+331	Cacnea				1		
+332	Cacturne		1		1		
+333	Swablu					1	
+334	Altaria					2	
+335	Zangoose		2				
+336	Seviper		1		1		
+337	Lunatone				2		
+338	Solrock		2				
+339	Barboach	1					
+340	Whiscash	2					
+341	Corphish		1				
+342	Crawdaunt		2				
+343	Baltoy					1	
+344	Claydol					2	
+345	Lileep					1	
+346	Cradily					2	
+347	Anorith		1				
+348	Armaldo		2				
+349	Feebas						1
+350	Milotic					2	
+351	Castform	1					
+352	Kecleon					1	
+353	Shuppet		1				
+354	Banette		2				
+355	Duskull					1	
+356	Dusclops			1		1	
+357	Tropius	2					
+358	Chimecho				1	1	
+359	Absol		2				
+360	Wynaut	1					
+361	Snorunt	1					
+362	Glalie	2					
+363	Spheal	1					
+364	Sealeo	2					
+365	Walrein	3					
+366	Clamperl			1			
+367	Huntail		1	1			
+368	Gorebyss				2		
+369	Relicanth	1		1			
+370	Luvdisc						1
+371	Bagon		1				
+372	Shelgon			2			
+373	Salamence		3				
+374	Beldum			1			
+375	Metang			2			
+376	Metagross			3			
+377	Regirock			3			
+378	Regice					3	
+379	Registeel			2		1	
+380	Latias					3	
+381	Latios				3		
+382	Kyogre				3		
+383	Groudon		3				
+384	Rayquaza		2		1		
+385	Jirachi	3					
+386	Deoxys		1		1		1
+387	Turtwig		1				
+388	Grotle		1	1			
+389	Torterra		2	1			
+390	Chimchar						1
+391	Monferno				1		1
+392	Infernape		1		1		1
+393	Piplup				1		
+394	Prinplup				2		
+395	Empoleon				3		
+396	Starly						1
+397	Staravia						2
+398	Staraptor		3				
+399	Bidoof	1					
+400	Bibarel		2				
+401	Kricketot			1			
+402	Kricketune		2				
+403	Shinx		1				
+404	Luxio		2				
+405	Luxray		3				
+406	Budew				1		
+407	Roserade				3		
+408	Cranidos		1				
+409	Rampardos		2				
+410	Shieldon			1			
+411	Bastiodon			2			
+412	Burmy					1	
+413	Wormadam			1		1	
+414	Mothim		1		1		
+415	Combee						1
+416	Vespiquen			1		1	
+417	Pachirisu						1
+418	Buizel						1
+419	Floatzel						2
+420	Cherubi				1		
+421	Cherrim				2		
+422	Shellos	1					
+423	Gastrodon	2					
+424	Ambipom						2
+425	Drifloon	1					
+426	Drifblim	2					
+427	Buneary						1
+428	Lopunny						2
+429	Mismagius				1	1	
+430	Honchkrow		2				
+431	Glameow						1
+432	Purugly						2
+433	Chingling				1		
+434	Stunky						1
+435	Skuntank	2					
+436	Bronzor			1			
+437	Bronzong			1		1	
+438	Bonsly			1			
+439	Mime Jr.					1	
+440	Happiny	1					
+441	Chatot		1				
+442	Spiritomb			1		1	
+443	Gible		1				
+444	Gabite		2				
+445	Garchomp		3				
+446	Munchlax	1					
+447	Riolu		1				
+448	Lucario		1		1		
+449	Hippopotas			1			
+450	Hippowdon			2			
+451	Skorupi			1			
+452	Drapion			2			
+453	Croagunk		1				
+454	Toxicroak		2				
+455	Carnivine		2				
+456	Finneon						1
+457	Lumineon						2
+458	Mantyke					1	
+459	Snover		1				
+460	Abomasnow		1		1		
+461	Weavile		1				1
+462	Magnezone				3		
+463	Lickilicky	3					
+464	Rhyperior		3				
+465	Tangrowth			2			
+466	Electivire		3				
+467	Magmortar				3		
+468	Togekiss				2	1	
+469	Yanmega		2				
+470	Leafeon			2			
+471	Glaceon				2		
+472	Gliscor			2			
+473	Mamoswine		3				
+474	Porygon-Z				3		
+475	Gallade		3				
+476	Probopass			1		2	
+477	Dusknoir			1		2	
+478	Froslass						2
+479	Rotom				1		1
+480	Uxie			2		1	
+481	Mesprit		1		1	1	
+482	Azelf		2		1		
+483	Dialga				3		
+484	Palkia				3		
+485	Heatran				3		
+486	Regigigas		3				
+487	Giratina	3					
+488	Cresselia					3	
+489	Phione	1					
+490	Manaphy	3					
+491	Darkrai				2		1
+492	Shaymin	3					
+493	Arceus	3					
+494	Victini	3					
+495	Snivy						1
+496	Servine						2
+497	Serperior						3
+498	Tepig	1					
+499	Pignite		2				
+500	Emboar		3				
+501	Oshawott				1		
+502	Dewott				2		
+503	Samurott				3		
+504	Patrat		1				
+505	Watchog		1				
+506	Lillipup		1				
+507	Herdier		2				
+508	Stoutland		3				
+509	Purrloin						1
+510	Liepard						2
+511	Pansage						1
+512	Simisage						2
+513	Pansear						1
+514	Simisear						2
+515	Panpour						1
+516	Simipour						2
+517	Munna	1					
+518	Musharna	2					
+519	Pidove		1				
+520	Tranquill		2				
+521	Unfezant		3				
+522	Blitzle						1
+523	Zebstrika						2
+524	Roggenrola			1			
+525	Boldore		1	1			
+526	Gigalith		3				
+527	Woobat						1
+528	Swoobat						2
+529	Drilbur		1				
+530	Excadrill		2				
+531	Audino	2					
+532	Timburr		1				
+533	Gurdurr		2				
+534	Conkeldurr		3				
+535	Tympole						1
+536	Palpitoad	2					
+537	Seismitoad	3					
+538	Throh	2					
+539	Sawk		2				
+540	Sewaddle			1			
+541	Swadloon			2			
+542	Leavanny		3				
+543	Venipede			1			
+544	Whirlipede			2			
+545	Scolipede						3
+546	Cottonee						1
+547	Whimsicott						2
+548	Petilil				1		
+549	Lilligant				2		
+550	Basculin						2
+551	Sandile		1				
+552	Krokorok		2				
+553	Krookodile		3				
+554	Darumaka		1				
+555	Darmanitan				2		
+556	Maractus				2		
+557	Dwebble			1			
+558	Crustle			2			
+559	Scraggy		1				
+560	Scrafty			1		1	
+561	Sigilyph				2		
+562	Yamask			1			
+563	Cofagrigus			2			
+564	Tirtouga			1			
+565	Carracosta			2			
+566	Archen		1				
+567	Archeops		2				
+568	Trubbish						1
+569	Garbodor		2				
+570	Zorua				1		
+571	Zoroark				2		
+572	Minccino						1
+573	Cinccino						2
+574	Gothita					1	
+575	Gothorita					2	
+576	Gothitelle					3	
+577	Solosis				1		
+578	Duosion				2		
+579	Reuniclus				3		
+580	Ducklett	1					
+581	Swanna						2
+582	Vanillite				1		
+583	Vanillish				2		
+584	Vanilluxe				3		
+585	Deerling						1
+586	Sawsbuck		2				
+587	Emolga						2
+588	Karrablast		1				
+589	Escavalier		2				
+590	Foongus	1					
+591	Amoonguss	2					
+592	Frillish					1	
+593	Jellicent					2	
+594	Alomomola	2					
+595	Joltik						1
+596	Galvantula						2
+597	Ferroseed			1			
+598	Ferrothorn			2			
+599	Klink			1			
+600	Klang			2			
+601	Klinklang			3			
+602	Tynamo						1
+603	Eelektrik		2				
+604	Eelektross		3				
+605	Elgyem				1		
+606	Beheeyem				2		
+607	Litwick				1		
+608	Lampent				2		
+609	Chandelure				3		
+610	Axew		1				
+611	Fraxure		2				
+612	Haxorus		3				
+613	Cubchoo		1				
+614	Beartic		2				
+615	Cryogonal					2	
+616	Shelmet			1			
+617	Accelgor						2
+618	Stunfisk	2					
+619	Mienfoo		1				
+620	Mienshao		2				
+621	Druddigon		2				
+622	Golett		1				
+623	Golurk		2				
+624	Pawniard		1				
+625	Bisharp		2				
+626	Bouffalant		2				
+627	Rufflet		1				
+628	Braviary		2				
+629	Vullaby			1			
+630	Mandibuzz				2		
+631	Heatmor				2		
+632	Durant			2			
+633	Deino		1				
+634	Zweilous		2				
+635	Hydreigon				3		
+636	Larvesta		1				
+637	Volcarona				3		
+638	Cobalion			3			
+639	Terrakion		3				
+640	Virizion					3	
+641	Tornadus						3
+642	Thundurus				3		
+643	Reshiram				3		
+644	Zekrom		3				
+645	Landorus				3		
+646	Kyurem	1	1		1		
+647	Keldeo				3		
+648	Meloetta				1	1	1
+649	Genesect		1		1		1
+650	Chespin			1			
+651	Quilladin			2			
+652	Chesnaught			3			
+653	Fennekin				1		
+654	Braixen				2		
+655	Delphox				3		
+656	Froakie						1
+657	Frogadier						2
+658	Greninja						3
+659	Bunnelby						1
+660	Diggersby		2				
+661	Fletchling						1
+662	Fletchinder						2
+663	Talonflame						3
+664	Scatterbug			1			
+665	Spewpa			2			
+666	Vivillon	1			1		1
+667	Litleo				1		
+668	Pyroar				2		
+669	Flabébé					1	
+670	Floette					2	
+671	Florges					3	
+672	Skiddo	1					
+673	Gogoat	2					
+674	Pancham		1				
+675	Pangoro		2				
+676	Furfrou						1
+677	Espurr						1
+678	Meowstic						2
+679	Honedge			1			
+680	Doublade			2			
+681	Aegislash			2		1	
+682	Spritzee	1					
+683	Aromatisse	2					
+684	Swirlix			1			
+685	Slurpuff			2			
+686	Inkay		1				
+687	Malamar		2				
+688	Binacle		1				
+689	Barbaracle		2				
+690	Skrelp					1	
+691	Dragalge					2	
+692	Clauncher				1		
+693	Clawitzer				2		
+694	Helioptile						1
+695	Heliolisk				1		1
+696	Tyrunt		1				
+697	Tyrantrum		2				
+698	Amaura	1					
+699	Aurorus	2					
+700	Sylveon					2	
+701	Hawlucha		2				
+702	Dedenne						2
+703	Carbink			1		1	
+704	Goomy					1	
+705	Sliggoo					2	
+706	Goodra					3	
+707	Klefki			1			
+708	Phantump		1				
+709	Trevenant		2				
+710	Pumpkaboo			1			
+711	Gourgeist			2			
+712	Bergmite			1			
+713	Avalugg			2			
+714	Noibat						1
+715	Noivern						2
+716	Xerneas	3					
+717	Yveltal	3					
+718	Zygarde	3					
+719	Diancie			1		2	
+720	Hoopa				3		
+721	Volcanion				3		
+722	Rowlet	1					
+723	Dartrix	2					
+724	Decidueye		3				
+725	Litten						1
+726	Torracat						2
+727	Incineroar		3				
+728	Popplio				1		
+729	Brionne				2		
+730	Primarina				3		
+731	Pikipek		1				
+732	Trumbeak		2				
+733	Toucannon		3				
+734	Yungoos		1				
+735	Gumshoos		2				
+736	Grubbin		1				
+737	Charjabug			2			
+738	Vikavolt				3		
+739	Crabrawler		1				
+740	Crabominable		2				
+741	Oricorio				2		
+742	Cutiefly						1
+743	Ribombee						2
+744	Rockruff		1				
+745	Lycanroc		2				
+746	Wishiwashi	1					
+747	Mareanie			1			
+748	Toxapex			2			
+749	Mudbray		1				
+750	Mudsdale		2				
+751	Dewpider					1	
+752	Araquanid					2	
+753	Fomantis		1				
+754	Lurantis		2				
+755	Morelull					1	
+756	Shiinotic					2	
+757	Salandit						1
+758	Salazzle						2
+759	Stufful		1				
+760	Bewear		2				
+761	Bounsweet	1					
+762	Steenee						2
+763	Tsareena		3				
+764	Comfey					2	
+765	Oranguru					2	
+766	Passimian		2				
+767	Wimpod						1
+768	Golisopod			2			
+769	Sandygast			1			
+770	Palossand			2			
+771	Pyukumuku					2	
+772	Type: Null	2					
+773	Silvally	3					
+774	Minior			1		1	
+775	Komala		2				
+776	Turtonator			2			
+777	Togedemaru		2				
+778	Mimikyu					2	
+779	Bruxish		2				
+780	Drampa				2		
+781	Dhelmise		2				
+782	Jangmo-o			1			
+783	Hakamo-o			2			
+784	Kommo-o			3			
+785	Tapu Koko						3
+786	Tapu Lele				3		
+787	Tapu Bulu		3				
+788	Tapu Fini					3	
+789	Cosmog	1					
+790	Cosmoem			1		1	
+791	Solgaleo		3				
+792	Lunala				3		
+793	Nihilego					3	
+794	Buzzwole		1	2			
+795	Pheromosa						3
+796	Xurkitree				3		
+797	Celesteela		1	1	1		
+798	Kartana		3				
+799	Guzzlord	3					
+800	Necrozma		1		2		
+801	Magearna				3		
+802	Marshadow		2				1
